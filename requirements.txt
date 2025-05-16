@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-core
+langchain_community
+transformers
+torch
+python-dotenv
+PyPDF2
+langchain-huggingface
+faiss-cpu
+dash
+plotly
+langchain_groq 
